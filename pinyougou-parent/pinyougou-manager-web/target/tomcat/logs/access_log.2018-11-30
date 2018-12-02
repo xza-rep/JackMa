@@ -1,8 +1,0 @@
-0:0:0:0:0:0:0:1 - - [30/Nov/2018:16:32:29 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-1 103
-0:0:0:0:0:0:0:1 - - [30/Nov/2018:16:32:33 +0800] "POST /brand/search.do?page=1&rows=10 HTTP/1.1" 200 425 http-bio-9101-exec-2 4137
-0:0:0:0:0:0:0:1 - - [30/Nov/2018:16:32:33 +0800] "POST /brand/search.do?page=1&rows=10 HTTP/1.1" 200 425 http-bio-9101-exec-3 4043
-0:0:0:0:0:0:0:1 - - [30/Nov/2018:16:32:33 +0800] "POST /brand/search.do?page=1&rows=10 HTTP/1.1" 200 425 http-bio-9101-exec-5 22
-0:0:0:0:0:0:0:1 - - [30/Nov/2018:16:32:57 +0800] "POST /brand/search.do?page=1&rows=10 HTTP/1.1" 200 61 http-bio-9101-exec-6 63
-0:0:0:0:0:0:0:1 - - [30/Nov/2018:16:32:57 +0800] "POST /brand/search.do?page=1&rows=10 HTTP/1.1" 200 61 http-bio-9101-exec-7 18
-0:0:0:0:0:0:0:1 - - [30/Nov/2018:16:33:08 +0800] "POST /brand/search.do?page=1&rows=10 HTTP/1.1" 200 103 http-bio-9101-exec-8 29
-0:0:0:0:0:0:0:1 - - [30/Nov/2018:16:33:08 +0800] "POST /brand/search.do?page=1&rows=10 HTTP/1.1" 200 103 http-bio-9101-exec-9 30
